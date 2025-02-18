@@ -1,3 +1,4 @@
 scripts/__pycache__/
 .env
 scripts/test.py
+todo2notion/__pycache__/
